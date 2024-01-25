@@ -3,7 +3,7 @@
 # Update pip
 echo "Updating pip..."
 python3.9 pip install -U pip
-
+pip install Django
 # Install dependencies
 
 echo "Installing project dependencies..."
